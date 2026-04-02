@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<img src="assets/trophy.svg" alt="GitHub Trophies" width="100%" />
+<img src="./trophy.svg" alt="GitHub Trophies" width="100%" />
 
 </div>
 
