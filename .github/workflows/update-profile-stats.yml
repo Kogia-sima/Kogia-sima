@@ -23,7 +23,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Kogia-sima
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PRIVATE_GITHUB_TOKEN }}
 
       - name: Commit trophy SVG
         run: |
